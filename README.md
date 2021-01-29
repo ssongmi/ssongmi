@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1>Park Songmi</h1>
+<h1>😄Park Songmi😄</h1>
 
 <!--
 **ssongmi/ssongmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
