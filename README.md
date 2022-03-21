@@ -1,4 +1,4 @@
-<h1>Park Songm</h1>
+<h1>Park Songmi</h1>
 <p>:pencil2: 2021.01.25 ~ ing</p>
 <p>:school: 전남대학교 산업공학과 전공 소프트웨어공학과 부전공</p>
 <p>:pushpin: SKILL : HTML / CSS / JAVAScript / jQuery / BootStrap / Vue(Studying) / JAVA / Spring / MySQL / Python</p>
