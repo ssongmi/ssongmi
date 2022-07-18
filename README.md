@@ -1,7 +1,7 @@
 # Park Songmi
 :pencil2: 2021.01.25 ~ ing  
 :school: 전남대학교 산업공학과 전공 소프트웨어공학과 부전공  
-:pushpin: SKILL :  `HTML` `CSS` `JAVAScript` `jQuery` `BootStrap` `Vue` `React(Studying)` `JAVA` `Spring` `MySQL` `Python`    
+:pushpin: SKILL :  `React` `HTML` `CSS` `JAVAScript` `jQuery` `BootStrap` `Vue` `JAVA` `Spring` `MySQL` `Python`    
 
 <!--<p>:paperclip: 문제를 도약으로 성장하기 위해 항상 노력하고 있는 주니어 개발자 입니다</p>-->
 <!--
